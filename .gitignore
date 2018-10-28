@@ -1,0 +1,3 @@
+*.pyc
+get-pip.py
+__pycache__/
