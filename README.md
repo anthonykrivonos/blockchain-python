@@ -14,10 +14,10 @@ This project consists of a server script (`server.py`), client code (`client.py`
 
 1. Clone this repository.
 2. Open a terminal window and `cd` to the project.
-2. Start the server with `python server.py`.
-3. Open a new tab in the terminal, and make sure the project is still the root.
-3. Start the client with `python client.py`.
-4. In the same tab as the client, input commands as follows:
+3. Start the server with `python server.py`.
+4. Open a new tab in the terminal, and make sure the project is still the root.
+5. Start the client with `python client.py`.
+6. In the same tab as the client, input commands as follows:
 
 ```
 -f ### -t ### -a ###
